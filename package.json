@@ -1,0 +1,12 @@
+{
+  "name": "testwhats",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:rgranvilla/testwhats.git",
+  "author": "Ricardo Granvilla <rgranvilla@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node": "^22.18.0"
+  }
+}
